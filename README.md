@@ -13,4 +13,21 @@ In this project, we will make use of python to explore data related to bike shar
 
 # **Statistics Computed**
 After the user has chosen which city he wants to discover either Chicago, New York City, or Washington. In this project, the code will provide the following information:
-#1 Popular times of travel
+* 1 Popular times of travel (i.e., occurs most often in the start time)
+  - most common month
+  - most common day of week
+  - most common hour of day
+
+* 2 Popular stations and trip
+  - most common start station
+  - most common end station
+  - most common trip from start to end (i.e., most frequent combination of start station and end station)
+
+* Trip duration
+  - total travel time
+  - average travel time
+
+* User info
+  - counts of each user type
+  - counts of each gender (only available for NYC and Chicago)
+  - earliest, most recent, most common year of birth (only available for NYC and Chicago)
