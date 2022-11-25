@@ -9,3 +9,8 @@ In this project, we will make use of python to explore data related to bike shar
 - You should have Python 3, NumPy, and pandas installed using Anaconda
 - A text editor, like Sublime or Atom.
 - A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
+
+
+# **Statistics Computed**
+After the user has chosen which city he wants to discover either Chicago, New York City, or Washington. In this project, the code will provide the following information:
+#1 Popular times of travel
