@@ -20,7 +20,7 @@ The program takes in raw input to create an interactive experience in the termin
 3. (If they chose month) Which month - January, February, March, April, May, or June?
 4. (If they chose day) Which day - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?
 
-
+The answers to the questions above will determine the city and timeframe on which you'll do data analysis. After filtering the dataset, users will see the statistical result of the data, and choose to start again or exit.
 
 
 ### **The Datasets:**
