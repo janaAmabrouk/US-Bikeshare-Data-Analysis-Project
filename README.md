@@ -11,6 +11,18 @@ In this project, we will make use of python to explore data related to bike shar
 - A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 
+# **Explanation of the code:**
+### **How the program works:**
+The program takes in raw input to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, the answers to the questions on the previous page will change! There are four questions that will change the answers:
+
+1. Would you like to see data for Chicago, New York, or Washington?
+2. Would you like to filter the data by month, day, or not at all?
+3. (If they chose month) Which month - January, February, March, April, May, or June?
+4. (If they chose day) Which day - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?
+
+
+
+
 ### **The Datasets:**
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 - Start Time (e.g., 2017-01-01 00:07:57)
