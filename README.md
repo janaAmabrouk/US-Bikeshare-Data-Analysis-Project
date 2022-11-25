@@ -39,12 +39,12 @@ The Chicago and New York City files also have the following two columns:
 
 # **Statistics Computed**
 After the user has chosen which city he wants to discover either Chicago, New York City, or Washington. In this project, the code will provide the following information:
-* 1 Popular times of travel (i.e., occurs most often in the start time)
+* Popular times of travel (i.e., occurs most often in the start time)
   - most common month
   - most common day of week
   - most common hour of day
 
-* 2 Popular stations and trip
+* Popular stations and trip
   - most common start station
   - most common end station
   - most common trip from start to end (i.e., most frequent combination of start station and end station)
