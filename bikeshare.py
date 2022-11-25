@@ -47,9 +47,7 @@ def data_clean():
 
     print('You have chosen to show {} day(s).'.format(day.title()))
 
-    print('\nYou have chosen to view data for city: {}, month/s: {} and day/s: {}. '.format(city.upper(),
-                                                                                              month.upper(),
-                                                                                              day.upper()))
+    print('\nYou have chosen to view data for city: {}, month/s: {} and day/s: {}. '.format(city.upper(), month.upper(), day.upper()))
     
     #Returning the city, month and day the user selected
     return city, month, day
