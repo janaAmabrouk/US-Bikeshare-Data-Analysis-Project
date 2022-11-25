@@ -11,6 +11,20 @@ In this project, we will make use of python to explore data related to bike shar
 - A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 
+### **The Datasets:**
+Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
+- Start Time (e.g., 2017-01-01 00:07:57)
+- End Time (e.g., 2017-01-01 00:20:53)
+- Trip Duration (in seconds - e.g., 776)
+- Start Station (e.g., Broadway & Barry Ave)
+- End Station (e.g., Sedgwick St & North Ave)
+- User Type (Subscriber or Customer)
+
+The Chicago and New York City files also have the following two columns:
+- Gender
+- Birth Year
+
+
 # **Statistics Computed**
 After the user has chosen which city he wants to discover either Chicago, New York City, or Washington. In this project, the code will provide the following information:
 * 1 Popular times of travel (i.e., occurs most often in the start time)
