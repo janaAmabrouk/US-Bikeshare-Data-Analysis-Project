@@ -1,4 +1,5 @@
 # **US-Bikeshare-Data-Analysis-Project**
+
 # **Overview:**
 In this project, python was used to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 - According to the input the code will import the data and answer interesting questions about it by computing descriptive statistics. 
@@ -10,6 +11,7 @@ In this project, python was used to explore data related to bike share systems f
 - A text editor, like Sublime or Atom.
 - A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
+![divvy](https://user-images.githubusercontent.com/110740808/204080619-77bf0d79-e3da-4667-a02d-e4313a431f1c.jpg)
 
 # **Explanation of the code:**
 ### **How the program works:**
@@ -57,4 +59,3 @@ After the user has chosen which city he wants to discover either Chicago, New Yo
   - counts of each user type
   - counts of each gender (only available for NYC and Chicago)
   - earliest, most recent, most common year of birth (only available for NYC and Chicago)
-![divvy](https://user-images.githubusercontent.com/110740808/204080553-e5b3ccab-6ba7-45d7-bf4d-c585ab06db07.jpg)
