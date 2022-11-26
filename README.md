@@ -57,3 +57,4 @@ After the user has chosen which city he wants to discover either Chicago, New Yo
   - counts of each user type
   - counts of each gender (only available for NYC and Chicago)
   - earliest, most recent, most common year of birth (only available for NYC and Chicago)
+![divvy](https://user-images.githubusercontent.com/110740808/204080553-e5b3ccab-6ba7-45d7-bf4d-c585ab06db07.jpg)
